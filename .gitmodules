@@ -1,0 +1,3 @@
+[submodule "Projects/StellarMeStream"]
+	path = Projects/StellarMeStream
+	url = https://github.com/cherryxdbro/StellarMeStream.git
